@@ -1,0 +1,12 @@
+.waterfall-container {
+    width: 100%;
+    position: relative;
+}
+.waterfall-item {
+    position: absolute;
+    box-sizing: border-box;
+}
+.waterfall-image-layout {
+    width: 100%;
+    display: block;
+}
